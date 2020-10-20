@@ -54,13 +54,24 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ### Dependências
 
-  - [cors](https://github.com/expressjs/cors)
-  - [express](https://expressjs.com/pt-br/)
-  - [express async errors](https://github.com/davidbanham/express-async-errors)
-  
-  - [Multer](https://github.com/expressjs/multer)
-  - [Typeorm](https://github.com/typeorm/typeorm)
-  - [Yup](https://github.com/jquense/yup)
+  [@expo-google-fonts/nunito](https://github.com/expo/google-fonts)
+  [@react-native-community/masked-view](https://github.com/react-native-masked-view)
+  [@react-navigation/native](https://reactnavigation.org)
+  [@react-navigation/stack](https://reactnavigation.org)
+  [axios](https://github.com/axios/axios)
+  [expo](https://github.com/expo)
+  [expo-font](https://docs.expo.io)
+  [expo-image-picker](https://docs.expo.io)
+  [expo-status-bar](https://docs.expo.io)
+  [react](https://reactjs.org)
+  [react-dom](https://reactjs.org/docs/react-dom.html)
+  [react-native](https://github.com/expo/react-native/archive/sdk-39.0.3.tar.gz)
+  [react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler)
+  [react-native-maps](https://github.com/react-native-maps)
+  [react-native-reanimated](https://github.com/software-mansion/react-native-reanimated)
+  [react-native-safe-area-context](https://docs.expo.io/versions/latest/sdk/safe-area-context)
+  [react-native-screens](https://github.com/software-mansion/react-native-screens)
+  [react-native-web](https://react-native.dev)
   
 ### Banco de Dados
 
@@ -84,13 +95,11 @@ Para copiar o projeto, utilize os comandos:
 
 ```bash
   # Clonar o repositório
-  ❯ git clone https://github.com/gabriel4420/Happy.git
+  ❯ git clone https://github.com/gabriel4420/Happy-Moblie.git
 
   # Entrar no diretório backend
-  ❯ cd backend em um terminal
+  ❯ cd mobile em um terminal
   
-  # Entrar no diretório frontend
-  ❯ cd frontend em outro terminal
 ```
 Para instalar as dependências e iniciar o projeto, você pode utilizar o Yarn ou NPM:
 
@@ -103,7 +112,7 @@ Para instalar as dependências e iniciar o projeto, você pode utilizar o Yarn o
   # Iniciar o projeto backend
   ❯ yarn start-dev
 
-  # Iniciar o projeto frontend
+  # Iniciar o projeto mobile
   ❯ yarn start
 ```
 
@@ -118,7 +127,7 @@ Para instalar as dependências e iniciar o projeto, você pode utilizar o Yarn o
   # Iniciar o projeto backend
   ❯ npm start-dev
 
-  # Iniciar o projeto frontend
+  # Iniciar o projeto mobile
   ❯ npm start
 ```
 
