@@ -3,15 +3,15 @@
 </h1>
 
 <p align="center">
-   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gabriel4420/Happy">
+   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gabriel4420/Happy-Mobile">
 
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/gabriel4420/Happy?logo=html">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/gabriel4420/Happy-Mobile?logo=html">
 
-  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/gabriel4420/Happy?color=green">
+  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/gabriel4420/Happy-Mobile?color=green">
 
   <br>
 
-  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/last-commit/gabriel4420/Happy">
+  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/last-commit/gabriel4420/Happy-Mobile">
 
   <a href="https://www.linkedin.com/in/gabriel-rodrigues-perez-2069b072/">
     <img alt="Made by Gabriel" src="https://img.shields.io/badge/made%20by-Gabriel-%2304D361">
